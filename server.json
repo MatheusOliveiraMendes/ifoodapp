@@ -1,0 +1,53 @@
+{
+    "loja": [
+      {
+        "id": "ultima-hora",      
+        "title": "Conveniencia Ultoma hora ",
+        "seguimento": "Conveniencia",
+        "localizacao": "1,3km",
+        "imagem": "imgMenu/convenience.png",
+        "status": "Fechado"
+      },
+      {
+        "id": "super-mercado-carrefur",      
+        "title": "Super Mercado Carrefur",
+        "seguimento": "Super Mercado",
+        "localizacao": "2,5km",
+        "imagem": "imgMenu/market.png",
+        "status": "Fechado"
+      },
+      {
+        "id": "chopana-bar",      
+        "title": "Chopana Bar",
+        "seguimento": "Bar",
+        "localizacao": "1,1km",
+        "imagem": "imgMenu/drinks.png",
+        "status": "Fechado"
+      },
+      {
+        "id": "petShop",      
+        "title": "PetShop",
+        "seguimento": "PetShop",
+        "localizacao": "2,2km",
+        "imagem": "imgMenu/petshop.png",
+        "status": "Fechado"
+      },
+      {
+        "id": "mcdonalds",      
+        "title": "Mcdonald's",
+        "seguimento": "Laches",
+        "localizacao": "1,8km",
+        "imagem": "imgMenu/restaurant.png",
+        "status": "Fechado"
+      },
+      {
+        "id": "drogra-Raia",      
+        "title": "Drogea Raia",
+        "seguimento": "Farmacia",
+        "localizacao": "0,8km",
+        "imagem": "imgMenu/pharmacy.png",
+        "status": "Fechado"
+      }
+
+    ]
+  } 

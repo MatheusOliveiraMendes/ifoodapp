@@ -1,0 +1,18 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  
+  /*Content */
+  .box {
+    @apply p-6 rounded-xl border flex items-center space-x-4;
+  }
+  
+  /*Footer */
+  .list-footer {
+    @apply list-outside md:list-inside mt-8 space-y-6 text-gray-500;
+  }
+}
+
